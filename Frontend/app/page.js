@@ -119,6 +119,7 @@ export default function Home() {
         display: "flex",
         alignItems: "center",
         justifyContent: "space-between",
+        
         padding: "15px 32px",
         borderBottom: "1px solid rgba(255,255,255,0.07)",
         background: "#1a1a1f",
